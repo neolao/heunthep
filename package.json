@@ -2,7 +2,7 @@
     "author": "neolao",
     "name": "heunthep",
     "description": "the awesome command",
-    "version": "2.0.0",
+    "version": "2.0.1",
     "repository": {
         "type": "git",
         "url": "https://github.com/neolao/heunthep.git"
